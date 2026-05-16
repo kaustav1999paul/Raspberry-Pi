@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="/Pi-hole_Logo.png" alt="Raspberry Pi Logo" width="200">
+</div>
+
 # Pi-hole Setup Guide Using LXC on Raspberry Pi
 
 # Overview
